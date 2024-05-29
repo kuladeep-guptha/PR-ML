@@ -1,4 +1,5 @@
 *.c
 *.txt
 *.png
-
+*-checkpoint.ipynb
+*.json
